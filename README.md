@@ -4,7 +4,6 @@
 This project analyzes **user behavior in a SaaS product** to understand how users activate, engage, and adopt key features. The analysis focuses on identifying **engagement patterns, funnel drop-offs, and feature usage trends** to support data-driven product decisions.
 
 
-
 ##  Project Objectives
 - Measure **user activation and engagement**
 - Analyze **sessions and usage behavior**
@@ -19,7 +18,7 @@ This project analyzes **user behavior in a SaaS product** to understand how user
 - **Funnel Conversion Rates**
 - **Feature Usage Metrics**
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **SQL** – Data extraction, cleaning, and KPI calculation  
 - **Power BI** – Interactive dashboards and business visualization  
 
