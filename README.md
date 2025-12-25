@@ -3,6 +3,7 @@
 ##  Project Overview
 This project analyzes **user behavior in a SaaS product** to understand how users activate, engage, and adopt key features. The analysis focuses on identifying **engagement patterns, funnel drop-offs, and feature usage trends** to support data-driven product decisions.
 
+<img width="1336" height="746" alt="Image" src="https://github.com/user-attachments/assets/44b8df6e-5775-44e1-a015-aa1fd25acb73" />
 
 ##  Project Objectives
 - Measure **user activation and engagement**
